@@ -8,6 +8,7 @@ Objectives:
 - When I click on the Save icon, then the new note I have entered is saved and appears in the left-hand column with the other existing notes
 - When I click on an existing note in the list in the left-hand column, then that note appears in the right-hand column
 - When I click on the Write icon in the navigation at the top of the page, then I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+- When I click on the trash can icon next to an existing note, then that note is deleted from the application
 
 A link to my project URL via Heroku is available [here](https://whispering-mountain-20509.herokuapp.com/).
 
